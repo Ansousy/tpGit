@@ -1,3 +1,12 @@
+drop table if exists Article;
+
+drop table if exists Client;
+
+drop table if exists Facture;
+
+drop table if exists Famille;
+
+drop table if exists correspond;
 
 /*==============================================================*/
 /* Table : Article                                              */
