@@ -1,3 +1,1 @@
-Cette base de données présente le projet d'un  gestion de stock simple 
-qui permet d'ajouter des articles,modifier le stock, calculer le chiffre 
-d'affaires de l'entreprise, 
+Ce projet permet d'automatiser la gestion, la ventes dans les magasins de stock.
